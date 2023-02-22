@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 My name is Benjamin-Michael because my parents couldn't agree to a single name. They divorced, shocking really.
+
+- 💰 Working as a Developer Advocate at (VonageDev)[https://twitter.com/VonageDev] (Like my tweets! They come from my head!)
+- 🤓 Read some of my blog (posts)[https://developer.vonage.com/en/blog/authors/benjamin-aronov]
+- 👉 Join (Code-ish)[https://www.meetup.com/codeish-tlv/], the LowCode Meetup I founded with @charlottehetzler
+- 🌱 I’m currently learning all about LowCode platforms, what's your favorite?
+- 👯 I’m looking to collaborate on meetups, conferences, videos, articles, startups, etc.
+- 🤔 I’m looking for help with building a T-Shirt company
+- 💬 Ask me about anything. I don't judge.
 
 <!--
 **ruskibenya/ruskibenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
