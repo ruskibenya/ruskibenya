@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Benjamin-Michael because my parents couldn't agree to a single name. They divorced, shocking really.
+### 👋 My name is Benjamin-Michael because my parents couldn't agree to a single name.
+## They divorced, shocking really.
 
 - 💰 Working as a Developer Advocate at (VonageDev)[https://twitter.com/VonageDev] (Like my tweets! They come from my head!)
 - 🤓 Read some of my blog (posts)[https://developer.vonage.com/en/blog/authors/benjamin-aronov]
