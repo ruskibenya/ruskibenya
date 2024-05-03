@@ -1,7 +1,7 @@
 ### 👋 My name is Benjamin-Michael because my parents couldn't agree to a single name.
 #### They divorced, shocking really.
 
-- 💰 Working as a Developer Advocate at [VonageDev](https://twitter.com/VonageDev) 
+- 💰 Working as a Developer Advocate 
 - 🤓 Read some of my blog [posts](https://developer.vonage.com/en/blog/authors/benjamin-aronov)
 - 👉 Join [Code-ish](https://www.meetup.com/codeish-tlv/), the LowCode Meetup I founded with @charlottehetzler
 - 🌱 I’m currently learning all about LowCode platforms, what's your favorite?
